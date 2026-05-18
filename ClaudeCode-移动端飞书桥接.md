@@ -167,4 +167,4 @@ cc-connect daemon start
 
 - [完全配置指南](ClaudeCode-完全配置指南.md) — 从零配置全流程
 - [网络访问方案](ClaudeCode-网络访问方案.md) — 代理与网络方案
-- [Claudecode增强方向](ClaudecodeClaudeCode-增强方向.md) — 增强方向与完成状态
+- [增强方案](ClaudeCode-增强方案.md) — 增强方案与完成状态

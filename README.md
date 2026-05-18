@@ -11,7 +11,7 @@
 | [完全配置指南](ClaudeCode-完全配置指南.md) | Claude Code + DeepSeek + Clash + Chrome MCP + 飞书桥接 从零配置 |
 | [网络访问方案](ClaudeCode-网络访问方案.md) | Clash 代理层、Chrome MCP、各平台访问策略 |
 | [移动端飞书桥接](ClaudeCode-移动端飞书桥接.md) | cc-connect + 飞书实现手机操控 Claude Code |
-| [增强方向](ClaudeCode-增强方向.md) | 翻墙、移动端互联等增强方向 |
+| [增强方案](ClaudeCode-增强方案.md) | 翻墙、移动端互联等增强方案 |
 | [Chrome MCP 配置](Chrome-MCP-配置.md) | Chrome 远程调试、.mcp.json 配置 |
 
 ### Claude Code 源码架构分析

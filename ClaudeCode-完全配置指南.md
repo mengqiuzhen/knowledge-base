@@ -308,5 +308,5 @@ unzip -o cc-connect.zip -d cc-connect-bin
 
 - [移动端飞书桥接](ClaudeCode-移动端飞书桥接.md) — 移动端飞书桥接
 - [网络访问方案](ClaudeCode-网络访问方案.md) — 各平台访问策略
-- [Claudecode增强方向](ClaudecodeClaudeCode-增强方向.md) — 增强方向（翻墙 ✅ + 移动 ✅）
-- [LLM Wiki 方法论](../llm-wiki/LLM%20Wiki方法论.md) — 知识库方法论
+- [增强方案](ClaudeCode-增强方案.md) — 增强方案（翻墙 ✅ + 移动 ✅）
+- [LLM Wiki 方法论](LLM-Wiki-方法论.md) — 知识库方法论
