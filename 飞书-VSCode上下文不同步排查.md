@@ -11,7 +11,7 @@
 - 飞书回复中显示 `[ctx: ~0%]`
 
 ### 第二步：发现 JSONL
-- Claude Code 对话记录存在 `~/.claude/projects/e--Projects-Vault-Test/<uuid>.jsonl`
+- Claude Code 对话记录存在 `~/.claude/projects/<project-dir>/<uuid>.jsonl`
 - 分析了 JSONL 格式：每行一个 JSON 事件，`type: "assistant"/"user"`，`entrypoint: "claude-vscode"/"cli"`
 - 创建了 vscode-bridge skill 来读取 JSONL 和发送消息
 

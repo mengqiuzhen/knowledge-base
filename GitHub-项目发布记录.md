@@ -85,8 +85,7 @@
 | old | 深度学习笔记（代码量少）+ Datawhale 第三方内容 |
 | redis_data | 空的 Redis 数据目录 |
 | create_skill | 0 字节空文件 |
-| Vault | 个人 wiki，含敏感信息 |
-| find-work | 求职数据库，含个人信息 |
+| 个人项目 | 含敏感信息（已排除） |
 | claude-code-main | 开源项目 fork |
 | money | 个人项目 |
 | 闲鱼 | 个人项目 |

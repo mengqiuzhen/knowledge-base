@@ -112,7 +112,7 @@ name = "default"
 type = "claudecode"
 
 [projects.agent.options]
-work_dir = "E:/Projects/Vault/Test"
+work_dir = "/path/to/your/project"
 mode = "default"
 
 [[projects.platforms]]
@@ -165,6 +165,6 @@ cc-connect daemon start
 
 ## See Also
 
-- [完全配置指南](完全配置指南.md) — 从零配置全流程
-- [网络访问方案](网络访问方案.md) — 代理与网络方案
-- [Claudecode增强方向](Claudecode增强方向.md) — 增强方向与完成状态
+- [完全配置指南](ClaudeCode-完全配置指南.md) — 从零配置全流程
+- [网络访问方案](ClaudeCode-网络访问方案.md) — 代理与网络方案
+- [Claudecode增强方向](ClaudecodeClaudeCode-增强方向.md) — 增强方向与完成状态

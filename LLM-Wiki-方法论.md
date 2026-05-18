@@ -84,4 +84,4 @@ The idea traces back to Vannevar Bush's **Memex** (1945) — a personal, curated
 
 ## See Also
 
-- [SKILL.md Schema](../../SKILL.md) — this vault's operational schema
+- [LLM Wiki 官方 Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — Karpathy 原始文档

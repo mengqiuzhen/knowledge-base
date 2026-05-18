@@ -263,7 +263,7 @@ unzip -o cc-connect.zip -d cc-connect-bin
 | `/mode` | 切换权限模式 |
 | `/cron add 0 9 * * * 任务` | 定时任务 |
 
-详见 [移动端飞书桥接](移动端飞书桥接.md)
+详见 [移动端飞书桥接](ClaudeCode-移动端飞书桥接.md)
 
 ---
 
@@ -306,7 +306,7 @@ unzip -o cc-connect.zip -d cc-connect-bin
 
 ## See Also
 
-- [移动端飞书桥接](移动端飞书桥接.md) — 移动端飞书桥接
-- [网络访问方案](网络访问方案.md) — 各平台访问策略
-- [Claudecode增强方向](Claudecode增强方向.md) — 增强方向（翻墙 ✅ + 移动 ✅）
+- [移动端飞书桥接](ClaudeCode-移动端飞书桥接.md) — 移动端飞书桥接
+- [网络访问方案](ClaudeCode-网络访问方案.md) — 各平台访问策略
+- [Claudecode增强方向](ClaudecodeClaudeCode-增强方向.md) — 增强方向（翻墙 ✅ + 移动 ✅）
 - [LLM Wiki 方法论](../llm-wiki/LLM%20Wiki方法论.md) — 知识库方法论
